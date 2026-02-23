@@ -1,6 +1,6 @@
 {
   "name": "statigo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight framework-independent form state management library",
   "type": "module",
   "main": "./dist/index.js",
@@ -34,11 +34,11 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/raghvendrasingh-webkorps/formiva.git"
+    "url": "https://github.com/raghvendrasingh-webkorps/statigo.git"
   },
-  "homepage": "https://github.com/raghvendrasingh-webkorps/formiva#readme",
+  "homepage": "https://github.com/raghvendrasingh-webkorps/statigo#readme",
   "bugs": {
-    "url": "https://github.com/raghvendrasingh-webkorps/formiva/issues"
+    "url": "https://github.com/raghvendrasingh-webkorps/statigo/issues"
   },
   "peerDependencies": {
     "react": ">=18"
